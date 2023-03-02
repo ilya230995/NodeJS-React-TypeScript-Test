@@ -14,7 +14,7 @@ Go to Frontend folder and run a command npm run start
 
 # API
 
-Base url: http://localhost:5000/api/v1
+Base url: http://localhost:5050/api/v1
 
 
 ## Auth
