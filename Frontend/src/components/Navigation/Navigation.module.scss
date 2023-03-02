@@ -1,0 +1,27 @@
+.nav {
+  display: flex;
+  align-items: center;
+  padding: 15px 100px;
+  padding-bottom: 15px;
+  box-shadow: 0px 4px 12px rgba(204, 207, 210, 0.6);
+}
+.container {
+  padding-top: 30px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.navLinks {
+  display: block;
+  font-size: 20px;
+  &:nth-child(1) {
+    margin-right: 20px;
+  }
+}
+
+.activeNavLink {
+  text-decoration: underline;
+}
+
+.cartLinks {
+  margin-left: auto;
+}

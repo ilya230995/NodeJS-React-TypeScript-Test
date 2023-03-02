@@ -1,0 +1,26 @@
+.productContainer {
+  margin-right: 15px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  width: 300px;
+}
+
+.iconButton {
+  margin-top: 5px;
+  text-align: end;
+}
+
+.goBackBtn {
+  margin-bottom: 20px;
+}
+
+.container {
+  display: flex;
+}
+
+.titleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

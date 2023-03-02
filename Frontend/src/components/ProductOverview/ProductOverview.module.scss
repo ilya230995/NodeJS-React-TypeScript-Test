@@ -1,0 +1,10 @@
+.product {
+  margin-top: 20px;
+}
+
+.productItem {
+  margin-bottom: 15px;
+  &:not(:first-child) {
+    margin-top: 15px;
+  }
+}

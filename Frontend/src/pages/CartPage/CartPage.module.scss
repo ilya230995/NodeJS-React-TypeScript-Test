@@ -1,0 +1,38 @@
+.productTitle {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.productList {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: -30px;
+  margin-left: -30px;
+}
+
+.productItem {
+  width: 300px;
+  margin-top: 30px;
+  margin-left: 30px;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(204, 207, 210, 0.6);
+}
+
+.quantity {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.iconBtnContainer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.total {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
