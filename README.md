@@ -91,7 +91,6 @@ body: {
 > Get curret user data
 
 GET `/users/me/`
-```
 
 # Run the tests
 
